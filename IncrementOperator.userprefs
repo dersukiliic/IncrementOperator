@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{2751769C-B640-4009-B7A2-3D640C439417}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IncrementOperator/Program.cs">
+    <Files>
+      <File FileName="IncrementOperator/Program.cs" Line="16" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IncrementOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
